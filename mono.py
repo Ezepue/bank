@@ -1,8 +1,3 @@
-"""Group Leader:Ezepue Ebuka Emmanuel
-    Mat No:COS/5521/2019
-    Group No: C
- """
-
 # Monolithic approach
 
 # Define the initial balance
